@@ -71,10 +71,10 @@ Windows 系統界面，在任何情況下點擊：( Win鍵 + R鍵 ) 會自動彈
         "ls -ls"        // 小技巧：讓文件輸出方式更直觀
     ```
 
-// TODO: ### 清空界面 Clear
-// TODO: ### 變數宣告 SET
-// TODO: ### 呼叫變數 %名稱%
-// TODO: ### 脚本程式碼 Batch檔
-// MORE
+// TODO: ### 清空界面 Clear<br>
+// TODO: ### 變數宣告 SET<br>
+// TODO: ### 呼叫變數 %名稱%<br>
+// TODO: ### 脚本程式碼 Batch檔<br>
+// MORE<br>
 
 To Be Continue...
